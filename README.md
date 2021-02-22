@@ -3,6 +3,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=happiness9721.happiness9721)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+[![](https://raw.githubusercontent.com/happiness9721/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/happiness9721/github-profile-summary-cards/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/happiness9721/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/happiness9721/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--
 **happiness9721/happiness9721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
